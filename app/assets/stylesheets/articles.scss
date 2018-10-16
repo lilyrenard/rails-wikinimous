@@ -1,0 +1,30 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+li h2 {
+  font-family: "Roboto Slab";
+  font-weight: 400;
+  font-size: 30px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h2 a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+h2 a:hover {
+  text-decoration: underline;
+  color: #1C4C82;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+p {
+  font-family: "Roboto";
+  font-size: 15px;
+
+}
